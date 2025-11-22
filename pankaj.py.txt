@@ -4,3 +4,11 @@ def add (n1,n2):
 
 def CA(r):
            return 3.14*r*r 
+
+
+def sqrt(n):
+         return**0.5
+
+
+def cbrt(n)
+           return***(1/3)s
